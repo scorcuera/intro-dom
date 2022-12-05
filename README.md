@@ -8,7 +8,7 @@ If you have modified the original version and you want to switch of branches aga
 
 ### Exercise One
 
-Try to access to access to the `header` element by using the DOM methods.
+Try to access to access to the title element by using the DOM methods.
 You can try to get it by using its tag name, its class name and its id.
 Then, try to get its text content only.
 
