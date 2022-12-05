@@ -1,3 +1,3 @@
 function change() {
-    // your code goes here
+    document.querySelector('article').innerHTML+="<div class='redSquare'></div>" 
 }
