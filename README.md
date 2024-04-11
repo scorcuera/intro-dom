@@ -8,8 +8,8 @@ If you have modified the original version and you want to switch of branches aga
 
 ### Exercise One
 
-Try to access to access to the title element by using the DOM methods.
-You can try to get it by using its tag name, its class name and its id.
+Try to access to the title element by using the DOM methods.
+You can try to get it by using its tag name, its class name or its id.
 Then, try to get its text content only.
 
 ### Exercise Two
